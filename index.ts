@@ -17,7 +17,7 @@
 //?             attackTarget
 //              ..that accepts a parameter called:
 //?               target
-//                This parameter will represent an instantiated class of Player or Enemy. Provide this parameter an accurate type definition, and include this method to the CharacterInterface.
+//                This parameter will represent an instantiated class of Player or Enemy. Provide this parameter accurate type information, and include this method to the CharacterInterface.
 //
 //              This function should log the name of the character that is attacking, as well as the name of the target.
 //
